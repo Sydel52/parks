@@ -27,6 +27,7 @@
     text-align: center;
     background-color: rgb(120,44,0);
     height: 620px;
+    color: white;
 }
 /*color is #00ffff rgb0,255,255*/
 .blocks{
@@ -49,6 +50,7 @@
     text-decoration: none;
     padding: 40px 40px;
     text-align: center;
+    font-size: 20px;
 }
 #nav li a:hover{
     background-color: #555;
